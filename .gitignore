@@ -1,0 +1,5 @@
+node_modules/
+data/articles.json
+data/articles.json.tmp
+.env
+.DS_Store
